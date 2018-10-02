@@ -1,0 +1,19 @@
+{
+  "name": "Reminder",
+  "short_name": "Reminder",
+  "theme_color": "rgba(34,33,243,0.66)",
+  "background_color": "#2196f3",
+  "display": "standalone",
+ "orientation":" any", 
+  "scope": "/", 
+  "dir":"ltr",
+  "start_url": "/index.html", 
+  "lang":" en-UK", 
+  "icons": [
+  {
+    "src": "assets/images/865149_96x96.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  }
+ ] 
+}
